@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+
+# Python environment
+.python-version
+
+# Dependency lock files (optional depending on tool)
+uv.lock
